@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Juan Diego
+# Hi there 👋 I'm Juandi
 
 **Platform Engineer** & **CNCF Kubestronaut** 🛰️  
 Building cloud-native infrastructure on the **STACKIT Kubernetes Engine (SKE)** team ☁️

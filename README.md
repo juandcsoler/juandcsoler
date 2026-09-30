@@ -34,9 +34,3 @@ Building cloud-native infrastructure on the **STACKIT Kubernetes Engine (SKE)** 
 
 - 💻 Currently working on [STACKIT Kubernetes Engine](https://stackit.com/en/products/runtime/stackit-kubernetes-engine) (SKE)
 - ⚙️ **Core Tech**: Go, Kubernetes Control Planes, Cluster API, Gardener architecture, and Air-Gapped infrastructure.
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)

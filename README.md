@@ -27,3 +27,9 @@ Building cloud-native infrastructure on the [STACKIT Kubernetes Engine](https://
 ### 💻 Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,go,terraform,docker,aws,azure,py,bash,prometheus,grafana)](https://skillicons.dev)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandcsdeveloper)

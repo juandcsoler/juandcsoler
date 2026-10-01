@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Juandi
 
 **Platform Engineer** & **CNCF Kubestronaut** 🛰️  
-Building cloud-native infrastructure on the **STACKIT Kubernetes Engine (SKE)** team ☁️
+Building cloud-native infrastructure on the [STACKIT Kubernetes Engine](https://stackit.com/en/products/runtime/stackit-kubernetes-engine) team ☁️
 
 ---
 
@@ -27,10 +27,3 @@ Building cloud-native infrastructure on the **STACKIT Kubernetes Engine (SKE)** 
 ### 💻 Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,go,terraform,docker,aws,azure,py,bash,prometheus,grafana)](https://skillicons.dev)
-
----
-
-### 🔭 Current Focus
-
-- 💻 Currently working on [STACKIT Kubernetes Engine](https://stackit.com/en/products/runtime/stackit-kubernetes-engine) (SKE)
-- ⚙️ **Core Tech**: Go, Kubernetes Control Planes, Cluster API, Gardener architecture, and Air-Gapped infrastructure.
